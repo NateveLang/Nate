@@ -1,7 +1,7 @@
 """
 __init__.py
 
-Initialization file for eve package.
+Initialization file for nate package.
 """
 
 author = "eanorambuena"
