@@ -1,0 +1,10 @@
+{
+  "name": "nate",
+  "version": "0.0.1a0",
+  "scripts": {
+    "co": "sui-mono commit"
+  },
+  "devDependencies": {
+    "@s-ui/mono": "^2.18.0"
+  }
+}
