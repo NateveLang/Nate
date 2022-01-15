@@ -1,6 +1,6 @@
 # Nate
 
-Nate is a Nateve Templates translator developed using Python.
+Nate is a Nateve translator developed using Python.
 
 ## Nateve
 
