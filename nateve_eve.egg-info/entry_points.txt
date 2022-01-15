@@ -1,0 +1,3 @@
+[console_scripts]
+eve = eve.app:main
+
